@@ -1,0 +1,23 @@
+
+.Outlines{
+    background-color: whitesmoke;
+    height: 100vh;
+    width: 200px;
+    padding: 5px;
+  
+
+}
+.Outlines h3{
+    margin-top: 15px 5px 5px 0px;
+
+  
+
+}
+#outline-menu{
+    padding: 5px;
+
+}
+#outline-menu:hover{
+  background-color: gray;
+
+}

@@ -1,0 +1,18 @@
+button{
+    width: 80px;
+    height: 35px;
+    margin: 10px;
+    border-radius: 5px;
+    /* border: none; */
+}
+.button-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.button-style-one{
+    border-color: 5px brown solid;
+    border-radius: 20px;
+}
+.button-style-two{
+    border-color: 2px rgb(0, 7, 88) dotted;
+}
